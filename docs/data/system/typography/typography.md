@@ -1,6 +1,6 @@
 # Typography
 
-<p class="description">Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.</p>
+<p class="description">Documentation and examples for common text utilities to control alignment, weight, and more.</p>
 
 ## Variant
 
